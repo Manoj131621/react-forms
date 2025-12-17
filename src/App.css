@@ -5,5 +5,5 @@
 }
 .container{
   padding: 20px;
-  margin: 0 auto;
-}
+   width: fit-content;
+  margin-inline: auto;}
